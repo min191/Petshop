@@ -1,0 +1,52 @@
+.banner {
+    position: relative;
+}
+
+.caption {
+    text-align: start;
+    position: absolute;
+    top: 30% !important;
+    margin-left: 6rem !important;
+    font-size: 20px;
+}
+
+button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.btn_left {
+    color: #ed6435;
+    background-color: #f88b6645;
+    border-radius: 50px;
+    border: none;
+    font-size: 17px;
+    font-weight: 600;
+    width: 126px;
+    height: 48px;
+    margin: 20px;
+}
+
+.btn_right {
+    color: #45c1c7;
+    background: none;
+    border-radius: 50px;
+    border-color: #45c1c7;
+    font-size: 17px;
+    font-weight: 600;
+    width: 126px;
+    height: 48px;
+}
+
+.btn_left:hover {
+    color: #0091ff;
+    background: #99faff;
+    border-color: none;
+    cursor: pointer;
+}
+.btn_right:hover {
+    color: #ffffff;
+    background: #00b6c0;
+    border: none;
+    cursor: pointer;
+}

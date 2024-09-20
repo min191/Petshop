@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/346/633/files/ca-thu-meo-con.jpg?v=1654524782589",
+      "price": 150000,
+      "title": "Pate Cho Mèo Con Whiskas Vị Cá Thu",
+      "description": "Các bé mèo con luôn cần sự chăm sóc chu đáo nhất. Ngay trong việc chọn thức ăn cho mèo cũng cần phải chú ý. Ngoài thức ăn khô, ướt thì pate cho mèo con cũng là sự lựa chọn cần tính tới. Pate chứa hàm lượng dinh dưỡng dồi dào, đảm bảo mèo có thể phát triển nhanh chóng, khoẻ mạnh. Hiện có rất nhiều loại pate cho mèo con và sản phẩm Pate Cho Mèo Con Whiskas Vị Cá Thu 80g là 1 trong số đó.",
+      "category": "cat"
+    },
+    {
+      "id": 2,
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/346/633/products/ca-ngu-va-ga.jpg?v=1654521602217",
+      "price": 150000,
+      "title": "Pate Cho Mèo Lớn Whiskas Vị Gà & Cá Ngừ",
+      "description": "Chăm sóc mèo luôn cần phải chu đáo. Chọn thức ăn cho mèo cũng phải hết sức cẩn thận. Pate cho mèo đang là loại thức ăn cho mèo được nhiều người chọn. Không chỉ giàu dinh dưỡng, pate cho mèo còn tiện lợi, có hương vị hấp dẫn mèo. Các sản phẩm pate cho mèo trên thị trường cũng hết sức đa dạng. 1 trong số đó chính là Thức Ăn Cho Mèo Lớn Whiskas Vị Gà & Cá Ngừ",
+      "category": "cat"
+    },
+    {
+      "id": 3,
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/346/633/files/ca-basa.jpg?v=1654523353155",
+      "price": 150000,
+      "title": "Pate Cho Mèo Lớn Whiskas Vị Cá Basa Nướng",
+      "description": "Thức Ăn Cho Mèo Lớn Whiskas Vị Cá Basa Nướng 80g là thức ăn cho mèo dạng sốt đóng gói vị cá thu của Whiskas, Mỹ. Sản phẩm đạt chất lượng tốt, giúp thú cưng phát triển toàn diện. Hoàn toàn thích hợp với thú cưng của bạn.",
+      "category": "cat"
+    },
+    {
+      "id": 4,
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/346/633/files/ca-ngu-va-thit-trang.jpg?v=1654522561788",
+      "price": 160000,
+      "title": "Pate Cho Mèo Lớn Whiskas Vị cá ngừ và hương cá thịt trắng",
+      "description": "Thức Ăn Cho Mèo Lớn Whiskas Vị Cá ngừ và  hương cá thịt trắng 80g là thức ăn cho mèo dạng sốt đóng gói vị cá thu của Whiskas, Mỹ. Sản phẩm đạt chất lượng tốt, giúp thú cưng phát triển toàn diện. Hoàn toàn thích hợp với thú cưng của bạn.",
+      "category": "cat"
+    },
+    {
+      "id": 5,
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/346/633/products/sfdfd.jpg?v=1558921316050",
+      "price": 155000,
+      "title": "Cát Vệ Sinh Vón Cục KitCat Than Hoạt Tính",
+      "description": "Cát Vệ Sinh Vón Cục KitCat Than Hoạt Tính 10l là giải pháp giúp không gian nhà bạn luôn luôn sạch sẽ. Đồng thời, sản phẩm cũng giúp bạn vệ sinh cho mèo dễ dàng hơn. Không những thế, Cát Vệ SInh KitCat còn giúp mèo đi vệ sinh đúng chỗ hơn, khử mùi phân mèo. Chức năng vón cục sẽ giúp vệ sinh sạch sẽ phân mèo. Hương trà xanh nhẹ nhàng, thanh mát, khử mùi và diệt khuẩn cực tốt!",
+      "category": "cat"
+    },
+    {
+      "id": 6,
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/346/633/products/kitcat-von-cuc-huong-chanh-10l.jpg?v=1558921013343",
+      "price": 155000,
+      "title": "Cát Vệ SInh Vón Cục KitCat Hương Chanh",
+      "description": "Hẳn là các Sen rất đau đầu vì mùi phân mèo đúng không. Mặc dù các Boss vô cùng đáng yêu nhưng thật không thể chấp nhận được nếu không khử sạch được cái mùi đó. Chính vì vậy, rất nhiều bạn dù rất thích nuôi chó mèo nhưng lại ngại vì mùi... Giờ đây, bạn có thể giải quyết hoàn toàn nỗi lo này vì đã có Cát Vệ SInh Vón Cục KitCat Hương Chanh, vừa khử sạch mùi, vừa có mùi hương chanh thơm mát, dễ chịu. Vậy còn gì mà không thích ạ?",
+      "category": "cat"
+    },
+    {
+      "id": 7,
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/346/633/products/thie-t-ke-chu-a-co-te-n-82.png?v=1714136862763",
+      "price": 35000,
+      "title": "Pate Nutri plan Hàn Quốc cao Cấp 160g",
+      "description": "RePate cho mèo Nutri Plan phù hợp cho mèo ở mọi giai đoạn, mọi lứa tuổi. Với công thức đặc biệt dễ ăn, thơm ngon cùng các miếng thức ăn bên trong, cho mèo cưng có trải nghiệm ăn uống thú vị.",
+      "category": "cat"
+    },
+    {
+      "id": 8,
+      "img": "https://bizweb.dktcdn.net/100/346/633/products/thie-t-ke-chu-a-co-te-n-36.png?v=1677328053617",
+      "price": 100000,
+      "title": "THỨC ĂN HẠT NUTRI PLAN ALLSTAGE PLUS CHO MÈO MỌI LỨA TUỔI",
+      "description": "Sản phẩm còn rất an toàn vì nguyên liệu 100% là cá ngừ sản xuất tại Hàn Quốc, không chứa chất bảo quản, chất tạo vị, chất kháng nấm",
+      "category": "cat"
+    },
+    {
+      "id": 9,
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/346/633/products/1-56af81a7-77d5-4adb-99dd-a5c9dfb7cca2.jpg?v=1590514829367",
+      "price": 90000,
+      "title": "Thức ăn hạt hữu cơ cho chó ANF túi 2kg - Vị cừu, vịt và cá hồi",
+      "description": "Thức ăn hạt ANF được làm từ rau củ, thịt rõ nguồn gốc với nguồn nguyên liệu được trồng và nuôi dưỡng theo phương pháp hữu cơ hiện đại",
+      "category": "dog"
+    },
+    {
+      "id": 10,
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/346/633/products/zenith-puppy.jpg?v=1589001450017",
+      "price": 200000,
+      "title": "Thức Ăn Hạt Mềm Chó Con - Zenith Puppy 1.2kg",
+      "description": "Thức Ăn Khô Hạt Mềm Chó Con Zenith Puppy 1.2kg là thực phẩm bán ẩm nên không cần phải ngâm vào nước như các thực phẩm khác. Sản phẩm là loại thức ăn hạt mềm, nên rất dễ dàng tiêu hóa, đồng thời tạo cảm giác ngon miệng tuyệt vời dành cho chó con.",
+      "category": "cat"
+    },
+    {
+      "id": 11,
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/346/633/products/1-2487a559-9c54-4883-b7cb-9d7995f9915a.jpg?v=1555386260227",
+      "price": 50000,
+      "title": "Thức Ăn Khô Cho Chó Trưởng Thành Vị Bò Nướng SmartHeart",
+      "description": "Với những chú chó trưởng thành từ 1 tuổi trở lên, nguồn dinh dưỡng luôn cần chú ý bởi chúng cần nhiều năng lượng để hoạt động hơn. Do đó, bạn cần đặc biệt chú ý tới thành phần dinh dưỡng và lựa chọn những loại thức ăn an toàn, đạt chuẩn để chúng phát triển tốt nhất. Và thương hiệu SmartHeart là sự lựa chọn tuyệt vời cho bạn. Sản phẩm là gợi ý tuyệt vời chính là Thức Ăn Khô SmartHeart Cho Chó Trưởng Thành Vị Thịt Bò Nướng - SmartHeart Adult Roast Beef Flavor 1.5kg",
+      "category": "dog"
+    },
+    {
+      "id": 12,
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/346/633/products/thuc-an-cho-cho-con-vi-bo-sua-smartheart-puppy-beef-milk-400gr.png?v=1553504829737",
+      "price": 55000,
+      "title": "Thức Ăn Cho Chó Con Vị Bò & Sữa 400gr",
+      "description": "Nếu phải kể đến một dòng thức ăn khô cho chó dễ ăn, giá thành lại hợp lý thì không thể nào bỏ qua dòng thức ăn SmartHeart. Đây là dòng thức ăn của Thái Lan đang rất được ưa chuộng đó ạ!! Cùng FamiPet tìm hiểu sản phẩm đang bán rất chạy: Thức Ăn Khô Cho Chó Con Vị Thịt Bò Và Sữa - Smartheart Puppy Beef & Milk Flavor gói 400g.",
+      "category": "dog"
+    },
+    {
+      "id": 13,
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/346/633/products/1-6f5adf44-55db-450b-9de8-bb72253bd7a3.jpg?v=1555467511263",
+      "price": 130000,
+      "title": "Thức Ăn Khô Cho Chó Con Vị Gà, Trứng và Sữa Pedigree",
+      "description": "Để đảm bảo cho những chú chó con phát triển một cách toàn diện, người nuôi cần phải chọn lựa được những loại thức ăn phù hợp nhất. Bên cạnh thức ăn tươi và sữa thì hạt thức ăn khô cho chó là vô cùng cần thiết. Một trong số những nhãn hiệu thức ăn khô được nhiều người lựa chọn nhất chính là Thức Ăn Khô Cho Chó Con Vị Gà, Trứng và Sữa - Pedigree Puppy Chicken, Egg & Milk 1,5kg.",
+      "category": "dog"
+    },
+    {
+      "id": 14,
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/346/633/products/red.jpg",
+      "price": 50000,
+      "title": "Dây dắt yếm tròn cho chó mèo",
+      "description": "very warm and cute",
+      "category": "cat,dog"
+    },
+    {
+      "id": 15,
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/346/633/products/thie-t-ke-chu-a-co-te-n-78.png?v=1701229697870",
+      "price": 55000,
+      "title": "Áo Nỉ Bông Cho Thú Cưng",
+      "description": "Mùa đông không lạnh vì có áo ấm rổi",
+      "category": "dog, cat"
+    },
+    {
+      "id": 16,
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/346/633/products/1-82bce45b-617b-498b-8557-bec9347ae7f5.jpg?v=1553566299353",
+      "price": 55000,
+      "title": "Chụp Chống Liếm Cho Chó Mèo",
+      "description": "Chụp Chống Liếm Cho Chó Mèo chính là đồ dùng không thể thiếu được với mỗi chú thú cưng. Sản phẩm này được dùng để đeo vào cổ thú cưng sau khi các bé vừa bôi thuốc, xịt thuốc hoặc trên cơ thể có những vết thương. Chụp Chống Liếm còn được dùng cho những chú thú cưng dữ dằn, hay cắn. ",
+      "category": "dog,cat"
+    }
+  ]
+}

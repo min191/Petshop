@@ -1,0 +1,9 @@
+.category {
+    padding: 10px;
+    transition: background-color 0.3s ease; /* Sử dụng transition cho hiệu ứng mượt mà */
+  }
+  
+  .category:hover {
+    opacity: 0.5;
+    cursor: pointer;
+  }
